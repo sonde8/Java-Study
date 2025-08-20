@@ -43,7 +43,7 @@ public class Exam01 {
 		boolean b2=false;
 		System.out.println(b1);
 		System.out.println(b2 + "\n");
-
+		
 	}
 
 }

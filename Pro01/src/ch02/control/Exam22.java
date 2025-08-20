@@ -4,6 +4,12 @@ package ch02.control;
  * 제어문	- 반복문 (for, 다중 for)
  */
 
+/*
+ * @날짜:2025. 8. 20.
+ * @작성자:유승재
+ * @설명:
+ */
+
 public class Exam22 {
 
 	public static void main(String[] args) {
@@ -27,6 +33,7 @@ public class Exam22 {
 		for(int i=1;i<=100;i++) {			// 반복
 			if(i%10 == 0) {
 				System.out.println(i);		// 내용
+				
 			}
 		}
 	}
