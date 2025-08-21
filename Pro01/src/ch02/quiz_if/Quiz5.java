@@ -21,18 +21,18 @@ public class Quiz5 {
 		}
 		
 		int sum=0;
-//		for(int i=10;i<=20;i++) {
-//			sum+=i;
-//		}
-//		System.out.println(sum);
-//
-//		int x=10;
-//		while(x<=20) {
-//			sum+=x;
-//			x++;
-//		}
-//		System.out.println(sum);
-//		
+		for(int i=10;i<=20;i++) {
+			sum+=i;
+		}
+		System.out.println(sum);
+
+		int x=10;
+		while(x<=20) {
+			sum+=x;
+			x++;
+		}
+		System.out.println(sum);
+		
 		int y=10;
 		do {
 			sum+=y;
