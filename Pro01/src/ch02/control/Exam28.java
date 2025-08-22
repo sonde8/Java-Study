@@ -3,7 +3,7 @@ package ch02.control;
 /*
  * @날짜:2025. 8. 20.
  * @작성자:유승재
- * @설명:제어문 - 반복문 (do ~ xwhile)
+ * @설명:제어문 - 반복문 (do ~ while)
  */
 
 public class Exam28 {
