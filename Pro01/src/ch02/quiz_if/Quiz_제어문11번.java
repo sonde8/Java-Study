@@ -2,7 +2,7 @@ package ch02.quiz_if;
 
 import java.util.Scanner;
 
-public class Quiz8 {
+public class Quiz_제어문11번 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -24,7 +24,7 @@ public class Quiz8 {
 		System.out.println("sum:" + sum);
 		System.out.println("avg" + avg);
 		
-		
+		sc.close();
 	}
 
 }

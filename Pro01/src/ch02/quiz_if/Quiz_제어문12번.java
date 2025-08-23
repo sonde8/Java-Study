@@ -2,7 +2,7 @@ package ch02.quiz_if;
 
 import java.util.Scanner;
 
-public class Quiz9 {
+public class Quiz_제어문12번 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -22,6 +22,8 @@ public class Quiz9 {
 		}
 		System.out.println("양수의 개수:" + pos);
 		System.out.println("음수의 개수:" + neg);
+		
+		sc.close();
 	}
 
 }

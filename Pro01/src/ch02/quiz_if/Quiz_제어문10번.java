@@ -3,7 +3,7 @@ package ch02.quiz_if;
 import java.util.Scanner;
 
 
-public class Quiz7 {
+public class Quiz_제어문10번 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -28,11 +28,13 @@ public class Quiz7 {
             System.out.println("지원하지 않는 기간입니다.");
             return;
         }
+        sc.close();
 
         // 월 이자 계산
         double monthlyInterest = (money * rate) / 12;
         System.out.println("월이자:"+(int)monthlyInterest);
 
+     
 	}
 
 }
