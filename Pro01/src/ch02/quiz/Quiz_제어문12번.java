@@ -1,4 +1,4 @@
-package ch02.quiz_if;
+package ch02.quiz;
 
 import java.util.Scanner;
 

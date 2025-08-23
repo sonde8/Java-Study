@@ -1,4 +1,4 @@
-package ch02.quiz_if;
+package ch02.quiz;
 
 public class Quiz_제어문14번 {
 
