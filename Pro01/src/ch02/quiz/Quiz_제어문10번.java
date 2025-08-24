@@ -28,13 +28,13 @@ public class Quiz_제어문10번 {
             System.out.println("지원하지 않는 기간입니다.");
             return;
         }
-        sc.close();
+    
 
         // 월 이자 계산
         double monthlyInterest = (money * rate) / 12;
         System.out.println("월이자:"+(int)monthlyInterest);
 
-     
+        sc.close();
 	}
 
 }
