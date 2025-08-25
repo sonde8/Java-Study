@@ -1,6 +1,6 @@
-package ch02.quiz_if;
+package ch02.quiz;
 
-public class Quiz1 {
+public class Quiz_반복문8번 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

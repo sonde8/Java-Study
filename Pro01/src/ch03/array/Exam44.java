@@ -6,7 +6,7 @@ package ch03.array;
  * @설명:다차원 배열
  */
 
-import java.util.Scanner;;
+import java.util.Scanner;
 
 public class Exam44 {
 
